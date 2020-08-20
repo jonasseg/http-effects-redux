@@ -1,3 +1,7 @@
 export const environment = {
-  production: true
+  production: true,
+  users: {
+    base: 'https://reqres.in/api',
+    url: '/users',
+  }
 };
