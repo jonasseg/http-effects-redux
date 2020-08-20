@@ -7,7 +7,7 @@ export const environment = {
   users: {
     base: 'https://reqres.in/api',
     url: '/users',
-  }
+  },
 };
 
 /*
